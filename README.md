@@ -8,7 +8,16 @@ We propose SoooS: a multilingual multimedia message board. This message-board ca
 
 ### Requirements
 
+pip install -r requirements.txt
 
+### Running
+
+#### Running first time
+bash run.sh
+
+After executing run.py which creates a db, drops the older db and runs the python server go to
+
+https://localhost:5000/register 
 
 ### Description
 https://drive.google.com/file/d/1Mqc_VLmZ7EcRZ49_7zFen622MWdC6K0o/view?usp=sharing
