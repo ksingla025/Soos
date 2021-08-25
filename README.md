@@ -1,4 +1,4 @@
-# Soos
+# V2V Translate
 Multilingual Multimedia Message Board
 
 As we continue to work, travel and share information between each other irrespective of geographical and cultrul demographics our conversations are becoming more multilingual.  However according to X,  95% people in the world don't speak more than 2 languages.  There are many social platforms like facebook, tiktok and rediit however they all offer limited multilingual conversation.
